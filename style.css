@@ -1,0 +1,19 @@
+header {
+  height: 75px;
+  background: darkslategrey;
+  text-align: center;
+  color: white;
+  font-family: arial;
+ 
+}
+
+body{
+  background: silver;
+  
+  }
+
+img{
+  height: 200px;
+  float: right;
+}
+
